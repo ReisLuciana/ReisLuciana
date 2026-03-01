@@ -1,4 +1,4 @@
 ## Oii! Eu sou a Luciana Reis 👋
 
-- 🌱 Estudando JavaScrip e React
+- 🌱 Estudando HTML, CSS e JavaScrip
 - 📫 lucianareis91@gmail.com
